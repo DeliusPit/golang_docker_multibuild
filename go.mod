@@ -5,6 +5,8 @@ go 1.18
 require (
 	github.com/gin-contrib/sse v0.0.0-20190125020943-a7658810eb74 // indirect
 	github.com/gin-gonic/gin v1.3.0 // indirect
+	github.com/gin-gonic/contrib/cors v1.4.0
+	github.com/lib/pq v1.10.4
 	github.com/golang/protobuf v1.2.0 // indirect
 	github.com/jinzhu/gorm v1.9.2 // indirect
 	github.com/jinzhu/inflection v0.0.0-20180308033659-04140366298a // indirect
